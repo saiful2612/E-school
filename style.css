@@ -1,0 +1,134 @@
+.navbar-light .navbar-nav .nav-link{
+    color: black;
+    font-weight: 500;
+}
+h6{
+    color: red;
+}
+h1{
+   font-weight: 800;
+   font-family: Arial; 
+}
+
+.h1-highlight{
+    color: seagreen;
+}
+.buy-now-button{
+    background-color: seagreen;
+    color: #fff;
+    border: none;
+    border-radius: 30px;
+    padding: 9px 25px;
+    cursor: pointer;
+}
+.first-layer{
+    background-color:#F0FFF0;
+    padding-left: 60px;
+    padding-right: 60px;
+}
+
+.box img{
+    width: 40%;
+}
+.sticker{
+    padding: 40px 40px 20px 40px;
+}
+.sticker-text{
+    text-align: center;
+    padding-bottom: 30px;
+}
+.label{
+    margin:10px 10px;
+    height: 260px;
+    width: 260px;
+    border-radius: 5px; 
+}
+.type-two{
+    border:none;
+    box-shadow: 5px 5px 10px lightgrey;
+    border-radius: 5px; 
+}
+.type-one{
+    background-color:#F8FFFB;;
+}
+
+.Third-layer{
+    padding: 0px 20px ;
+    margin: 20px 80px 0px 80px;
+}
+
+h2{
+    text-align: center;
+    font-weight: 700;
+}
+.card-deck{
+    margin-top: 30px;
+}
+.card{
+}
+
+.box-four{
+    height: 180px;
+}
+
+.man{
+    width: 30%;
+}
+.headings{
+    font-weight: 700;
+    text-align: center;
+}
+.box-four-text{
+    font-size: 13px;
+    font-weight: 500;
+}
+.fourth-layer{
+    margin-top: 80px;    
+}
+.text-one {
+    font-size: 13px;
+    padding-top: 40px;
+    color: white;
+}
+.text-two{
+    font-size: 13px;
+    padding-top: 40px;
+    color: white;
+}    
+
+
+
+.c-five-size{
+    height: 280px;
+    background-color:#282531;
+}
+
+.footer{
+    background-color: #282531;
+    color: white;
+    text-align: center;
+    padding-bottom: 20px;
+}
+.icon{
+    height: 24px;
+    width: 24px;
+}
+.card-bottom{
+    margin: 2px;
+}
+.pic{
+    padding: 20px;
+}
+.card-footer{
+    background-color: white;
+    border-top: none;
+}
+.card{
+    height: 550px;
+    width: 370px;
+    border: none;
+    box-shadow: 5px 5px 10px lightgrey;
+    border-radius: 20px;
+}
+
+
